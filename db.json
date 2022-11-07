@@ -62,6 +62,13 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "useRef: como funciona esse React Hook | #AluraMais",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/BwRxBGsT_f0",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
     }
   ]
 }
